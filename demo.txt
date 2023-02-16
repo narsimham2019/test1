@@ -1,3 +1,3 @@
 Demo GIT functionality
 
-This is the 2nd line.
+I have added a new line.. diff1
